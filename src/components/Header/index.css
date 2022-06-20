@@ -1,0 +1,21 @@
+header{
+    font-size: 35px;
+    height: 60px;
+    width: 100%;
+    background-color: rgb(255, 208, 0);
+    
+    display: flex;
+    justify-content:space-between;
+}
+.logo{
+    color: #FFF;
+    width: 100%;
+    text-align: center;
+    padding-left: 113.6px;
+}
+header a{
+    display: flex;
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+}
