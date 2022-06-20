@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nutriReact/static/css/main.9548b2df.css",
+    "main.js": "/nutriReact/static/js/main.ae57942b.js",
+    "index.html": "/nutriReact/index.html",
+    "main.9548b2df.css.map": "/nutriReact/static/css/main.9548b2df.css.map",
+    "main.ae57942b.js.map": "/nutriReact/static/js/main.ae57942b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9548b2df.css",
+    "static/js/main.ae57942b.js"
+  ]
+}
